@@ -78,7 +78,7 @@ Checklist des **15 projets** :
 **✍️ Auteur :** Raymond Francius   
 📧 *Contact :* [raymond.francius@gmail.com]  
 🔗 *GitHub :* [https://github.com/raym648/OpenClassRooms_Projets_AI_Engineer](https://github.com/raym648/OpenClassRooms_Projets_AI_Engineer)
-📚 Apprenant (Promotion 09-2025) : **Engineering Intelligence Artificielle (AI)** — **Openclassrooms**
+📚 *Apprenant (Promotion 09-2025) :* **Engineering Intelligence Artificielle (AI)** — **Openclassrooms**
 
 ---
 

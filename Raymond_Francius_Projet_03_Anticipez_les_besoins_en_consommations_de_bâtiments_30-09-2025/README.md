@@ -117,6 +117,6 @@ Ce projet est distribué sous licence **MIT** – vous êtes libre de le réutil
 **✍️ Auteur :** Raymond Francius   
 📧 *Contact :* [raymond.francius@gmail.com]  
 🔗 *GitHub :* [https://github.com/raym648/OpenClassRooms_Projets_AI_Engineer](https://github.com/raym648/OpenClassRooms_Projets_AI_Engineer)
-📚 Apprenant (Promotion 09-2025) : **Engineering Intelligence Artificielle (AI)** — **Openclassrooms**
+📚 *Apprenant (Promotion 09-2025) :* **Engineering Intelligence Artificielle (AI)** — **Openclassrooms**
 
 ---
