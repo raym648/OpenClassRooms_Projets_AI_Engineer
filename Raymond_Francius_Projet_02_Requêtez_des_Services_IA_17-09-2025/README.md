@@ -1,7 +1,7 @@
 # 🎯 Projet 2 — Requêtez des Services IA
 
-[![Python](https://img.shields.io/badge/Python-3.10-blue.svg)](https://www.python.org/)  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/USERNAME/REPO/blob/main/Projet2_Requetez_ServicesIA.ipynb)  
+[![Python](https://img.shields.io/badge/Python-3.10-blue.svg)](https://www.python.org/) 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/raym648/OpenClassRooms_Projets_AI_Engineer/blob/main/Raymond_Francius_Projet_02_Requêtez_des_Services_IA_17-09-2025/2025_10_03_Notebook_fashion_trend_intelligence_V07.ipynb)
 [![HuggingFace](https://img.shields.io/badge/🤗-Transformers-yellow.svg)](https://huggingface.co/)  
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
@@ -56,25 +56,11 @@ Je fournis un **Notebook Colab** prêt à l’emploi. Vous pouvez l’ouvrir dir
 
 ## 💻 Architecture du projet (aperçu)
 
-fashion-trend-intelligence/
-│
-├── data/
-│ ├── images/ # Images brutes
-│ └── annotations/ # Masques de vérité terrain
-├── notebooks/ # Notebooks Colab (incl. Projet2_Requetez_Services_IA.ipynb)
-├── src/ # Scripts Python (API, métriques, visualisation)
-├── models/ # Poids et configurations des modèles (si inclus)
-├── outputs/ # Résultats et rapports générés
-├── docs/ # Images d'illustration pour le README
-└── requirements.txt # Dépendances
-
-## 💻 Architecture du projet (aperçu)
-
 - `fashion-trend-intelligence/`
   - `data/`
     - `images/` — Images brutes
     - `annotations/` — Masques de vérité terrain
-  - `notebooks/` — Notebooks Colab (incl. `Projet2_Requetez_Services_IA.ipynb`)
+  - `notebooks/` — Notebooks Colab
   - `src/` — Scripts Python (API, métriques, visualisation)
   - `models/` — Poids et configurations des modèles (si inclus)
   - `outputs/` — Résultats et rapports générés

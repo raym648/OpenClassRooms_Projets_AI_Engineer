@@ -8,7 +8,8 @@ Je partage ici le fruit de mon parcours en **Formation d’Engineer AI**, où j�
 
 ## 🎯 Mon rôle en tant qu’AI Engineer
 
-En tant qu’**AI Engineer en formation**, j’acquiers les compétences nécessaires pour transformer la donnée en véritable levier de valeur pour les entreprises.  
+En tant qu’**AI Engineer en formation**, j’acquiers les compétences nécessaires pour transformer la donnée en véritable levier de valeur pour les entreprises. 
+ 
 Je travaille à la croisée de la **data engineering** et du **machine learning**, ce qui me permet de :  
 
 - 🔄 **Ingestion & transformation des données**  
@@ -21,7 +22,7 @@ Je travaille à la croisée de la **data engineering** et du **machine learning*
 
 ## 🛠️ Technologies & Langages maîtrisés
 
-Vous maîtriserez les technologies et langages les plus demandés :  
+Maîtrise des technologies et langages les plus demandés :  
 
 `Airbyte`, `BentoML`, `CI/CD`, `Computer Vision`, `Deep Learning`, `Déploiement Cloud`,  
 `FastAPI`, `Git`, `GitHub`, `Great Expectations`, `Jupyter Notebook`, `Kestra`, `Langchain`,  
@@ -48,7 +49,7 @@ Vous maîtriserez les technologies et langages les plus demandés :
 ### 🔵 Badge dynamique
 ![Progression](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/raym648/OpenClassRooms_Projets_AI_Engineer/main/progress.json)
 
-👉 Ce badge se met à jour automatiquement dès que vous modifiez `progress.json`.  
+👉 Ce badge se met à jour automatiquement dès que `progress.json` est modifié.  
 
 ---
 
