@@ -1,0 +1,11 @@
+Scenario,Hours_or_hoursEquivalent,Compute_Cost_USD
+SUMMARY,,
+Total_Cost_USD,,500.93
+Cost_per_Image_USD,,0.001002
+Parameters,,"{'N': 500000, 'days': 30, 'latency_gpu': 0.5, 'latency_cpu': 2.0, 'latency_serverless_overhead': 0.2, 'rate_gpu_per_hour': 0.5, 'rate_cpu_per_hour': 0.067, 'rate_serverless_per_hour': 0.5, 'avg_image_mb': 1.0, 'avg_output_mb': 0.1, 'storage_price_per_gb_month': 0.02, 'egress_price_per_gb': 0.09, 'safety_factor': 1.05}"
+Batch GPU (job ponctuel),69.44,36.46
+Endpoint GPU 24/7 (1 instance),720,378.0
+Batch CPU (job ponctuel),277.78,19.54
+Serverless (pay-per-invocation),97.22,51.04
+Stockage (images + outputs),,11.28
+Egress (transfert résultats),,4.61
