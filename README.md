@@ -60,8 +60,8 @@ Checklist des **15 projets** :
 - [x] Projet 1 : **Découvrez le métier d'AI Engineer**.  
 - [x] Projet 2 : **Requêtez des services IA**.  
 - [x] Projet 3 : **Anticipez les besoins en consommations de bâtiments**.  
-- [ ] Projet 4 : **Classifiez automatiquement des informations**.  
-- [ ] Projet 5 : **Déployez un modèle de Machine Learning**. 
+- [x] Projet 4 : **Classifiez automatiquement des informations**.  
+- [x] Projet 5 : **Déployez un modèle de Machine Learning**. 
 - [ ] Projet 6 : **Initiez-vous au MLOps (partie 1/2)**. 
 - [ ] Projet 7 : **Concevez et déployez un système RAG**. 
 - [ ] Projet 8 : **Confirmez vos compétences en MLOps (Partie 2/2)**. 
@@ -76,14 +76,5 @@ Checklist des **15 projets** :
 ---
 
 **✍️ Auteur :** Raymond Francius  
-📚 *Apprenant - Promotion 09-2025 :* **Engineering Intelligence Artificielle (AI)** — **Openclassrooms**  
-📧 *Contact :* [raymond.francius@gmail.com]   
+📚 *Apprenant - Promotion 09-2025 :* **Engineering Intelligence Artificielle (AI)** — **Openclassrooms**    
 🔗 *GitHub :* [https://github.com/raym648/OpenClassRooms_Projets_AI_Engineer](https://github.com/raym648/OpenClassRooms_Projets_AI_Engineer)
-
----
-
-## 🤝 Restons connectés
-
-Si vous souhaitez en savoir plus, échanger sur des projets ou partager vos retours, je serai ravi d’échanger avec vous ! 
-
----
