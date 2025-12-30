@@ -51,7 +51,7 @@ Le projet comprend l’ensemble des livrables attendus pour une mise en producti
 - Gestion des schémas de données et exemples d’appels
 
 👉 **Swagger UI**  
-🔗 https://henrychi-ai-futurisys-api.hf.space/docs
+🔗 https://remdev-ai-futurisys-api.hf.space/docs
 
 ---
 
