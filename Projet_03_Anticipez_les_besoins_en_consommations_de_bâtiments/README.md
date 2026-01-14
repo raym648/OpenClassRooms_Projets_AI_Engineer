@@ -54,10 +54,10 @@ Ce dépôt est organisé autour du **notebook Google Colab**, correspondant à c
 
 ## ⚙️ Exécution & Notebook Colab
 
-Je fournis un **Notebook Colab** prêt à l’emploi. Vous pouvez **l’ouvrir directement sans installation locale** :
+Je fournis un **Notebook Colab** prêt à l’emploi.  
 
 **Ouvrez directement le notebook dans Colab (aucune installation locale nécessaire) :**  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/raym648/OpenClassRooms_Projets_AI_Engineer/blob/main/Raymond_Francius_Projet_03_Anticipez_les_besoins_en_consommations_de_bâtiments/2025_11_10_Notebook01_2016_Building_Energy_Benchmarking.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/raym648/OpenClassRooms_Projets_AI_Engineer/blob/main/Projet_03_Anticipez_les_besoins_en_consommations_de_bâtiments/2025_11_10_Notebook01_2016_Building_Energy_Benchmarking.ipynb)
 
 ---
 
