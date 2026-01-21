@@ -1,3 +1,5 @@
+# OpenClassroom - Formation AI Engineer/update_progress.py
+
 import re
 import json
 
