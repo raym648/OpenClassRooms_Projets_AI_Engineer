@@ -51,7 +51,7 @@ Le projet comprend l’ensemble des livrables attendus pour une mise en producti
 - Gestion des schémas de données et exemples d’appels
 
 👉 **Swagger UI**  
-🔗 https://remdev-ai-futurisys-api.hf.space/docs
+🔗 [https://remdev-ai-futurisys-api.hf.space/docs](https://remdev-ai-futurisys-api.hf.space/docs)
 
 ---
 
@@ -95,14 +95,14 @@ Le projet est structuré autour des étapes suivantes :
 ## 🌐 Accès au projet
 
 - 📦 **Dépôt GitHub**  
-  👉 https://github.com/raym648/futurisys-ml-deploy
+  👉 [https://github.com/raym648/futurisys-ml-deploy](https://github.com/raym648/futurisys-ml-deploy)
 
 
 - 📊 **Dashboard (HF Spaces)**  
-  👉 https://remdev-ai-futurisys-dashboard.hf.space/
+  👉 [https://remdev-ai-futurisys-dashboard.hf.space/](https://remdev-ai-futurisys-dashboard.hf.space/)
 
 - 🔍 **API – Swagger UI**  
-  👉 https://remdev-ai-futurisys-api.hf.space/docs
+  👉 [https://remdev-ai-futurisys-api.hf.space/docs](https://remdev-ai-futurisys-api.hf.space/docs)
 
 ---
 
