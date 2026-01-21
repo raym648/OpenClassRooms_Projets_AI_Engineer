@@ -129,13 +129,13 @@ Client / Dashboard / Démo live
 
 ## 🚀 Démo & Accès
 
-### 🔗 Dashboard & API (Hugging Face Spaces)
+### 🔗 Dashboard & API (Hugging Face Spaces)  
 👉 **Démo live & accès API**  
-[https://remdev-ai-rag-dashboard.hf.space](https://remdev-ai-rag-dashboard.hf.space)
+👉 [https://remdev-ai-rag-dashboard.hf.space](https://remdev-ai-rag-dashboard.hf.space)
 
-### 💻 Dépôt GitHub
-👉 **Code source complet**
-[https://github.com/raym648/puls-events-chatbot-intelligent-rag](https://github.com/raym648/puls-events-chatbot-intelligent-rag)
+### 💻 Dépôt GitHub  
+👉 **Code source complet** :  
+👉 [https://github.com/raym648/puls-events-chatbot-intelligent-rag](https://github.com/raym648/puls-events-chatbot-intelligent-rag)
 
 ---
 
