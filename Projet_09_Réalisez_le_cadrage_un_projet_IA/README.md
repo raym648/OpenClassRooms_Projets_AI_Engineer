@@ -16,7 +16,7 @@ vestimentaire.
 
 Le projet s'appuie sur l'écosystème **Microsoft Azure** comme environnement cloud partenaire de Fashion-Insta.
 
-Une réunion stratégique du COMEX est prévue afin d'obtenir la validation pour le lancement d'un **Proof of Concept (POC) IA**.\
+Une réunion stratégique du COMEX est prévue afin d'obtenir la validation pour le lancement d'un **Proof of Concept (POC) IA**.  
 La mission consiste à produire un cadrage structuré, économiquement dimensionné et conforme aux exigences réglementaires.
 
 ![Valeur ajoutée de l'IA pour le projet](docs/Valeur_ajoutée_de_IA.png)
@@ -39,9 +39,9 @@ Un modèle de vision par ordinateur peut extraire des caractéristiques stylisti
 
 ## 📊 Indicateurs de succès
 
--   Taux de pertinence des recommandations\  
--   Temps moyen de traitement d'une image\  
--   Stabilité de l'architecture cloud\  
+-   Taux de pertinence des recommandations  
+-   Temps moyen de traitement d'une image  
+-   Stabilité de l'architecture cloud  
 -   Validation métier  
 
 ------------------------------------------------------------------------
@@ -72,11 +72,11 @@ Un modèle de vision par ordinateur peut extraire des caractéristiques stylisti
 
 Un diagramme d'architecture pour illustrer :  
 
-1.  Capture image via application mobile\  
-2.  Upload vers Azure Blob Storage\  
-3.  Appel API Backend\  
-4.  Traitement par modèle IA (Azure ML)\  
-5.  Requête base produits\  
+1.  Capture image via application mobile  
+2.  Upload vers Azure Blob Storage  
+3.  Appel API Backend  
+4.  Traitement par modèle IA (Azure ML)  
+5.  Requête base produits  
 6.  Retour des recommandations vers l'application  
 
 ![Architecture Diagram](docs/Système_de_recommandation.png)
@@ -85,11 +85,12 @@ Un diagramme d'architecture pour illustrer :
 
 ## 📅 Timeline de livraison
 
-  Phase   Objectif                 Durée estimée
-  ------- ------------------------ ---------------
-  POC     Validation technique     2 mois
-  MVP     Industrialisation        3 mois
-  Run     Scaling & Optimisation   Année 1
+| Phase | Objectif               | Durée estimée |
+|-------|------------------------|---------------|
+| POC   | Validation technique   | 2 mois        |
+| MVP   | Industrialisation      | 3 mois        |
+| Run   | Scaling & Optimisation | Année 1       |
+|-------|------------------------|---------------|
 
 ------------------------------------------------------------------------
 
@@ -106,9 +107,9 @@ Un diagramme d'architecture pour illustrer :
 
 Hypothèses métiers :  
 
--   +5 % augmentation taux de conversion\  
--   +3 % hausse panier moyen\  
--   Amélioration expérience utilisateur\  
+-   +5 % augmentation taux de conversion  
+-   +3 % hausse panier moyen  
+-   Amélioration expérience utilisateur  
 -   Réduction temps de recherche produit  
 
 Objectif : démontrer la viabilité économique et la rentabilité à moyen terme.  
@@ -119,23 +120,23 @@ Objectif : démontrer la viabilité économique et la rentabilité à moyen term
 
 ## Données personnelles concernées
 
--   Photos utilisateurs\  
--   Métadonnées\  
+-   Photos utilisateurs  
+-   Métadonnées  
 -   Historique d'usage  
 
 ## Mesures de conformité
 
--   Consentement explicite\  
--   Minimisation des données\  
--   Droit à l'effacement\  
--   Chiffrement des données\  
+-   Consentement explicite  
+-   Minimisation des données  
+-   Droit à l'effacement  
+-   Chiffrement des données  
 -   Analyse d'impact (DPIA)  
 
 ## Risques identifiés
 
--   Fuite de données\  
--   Biais algorithmique\  
--   Non-conformité réglementaire\  
+-   Fuite de données  
+-   Biais algorithmique  
+-   Non-conformité réglementaire  
 -   Mauvaise gouvernance data  
 
 ------------------------------------------------------------------------
@@ -144,40 +145,40 @@ Objectif : démontrer la viabilité économique et la rentabilité à moyen term
 
 ## ☁️ Cloud & Infrastructure
 
--   Microsoft Azure\  
--   Azure App Service\  
--   Azure Blob Storage\  
--   Azure SQL / CosmosDB\  
+-   Microsoft Azure  
+-   Azure App Service  
+-   Azure Blob Storage  
+-   Azure SQL / CosmosDB  
 -   Azure Monitor  
 
 ## 🤖 Intelligence Artificielle
 
--   Azure Machine Learning\  
--   Computer Vision\  
+-   Azure Machine Learning  
+-   Computer Vision  
 -   Python\  
 -   Scikit-Learn / PyTorch  
 
 ## 🔄 MLOps
 
--   GitHub Actions (CI/CD)\  
--   Versioning des modèles\  
--   Monitoring de dérive\  
+-   GitHub Actions (CI/CD)  
+-   Versioning des modèles  
+-   Monitoring de dérive  
 -   Logs & Observabilité  
 
 ## 📱 Application
 
--   API REST\  
--   JSON\  
+-   API REST  
+-   JSON  
 -   Architecture microservices  
 
 ------------------------------------------------------------------------
 
 # 🎓 Objectifs pédagogiques
 
--   Cadrage stratégique projet IA\  
--   Conception System Design Cloud\  
--   Estimation budgétaire & ROI\  
--   Analyse des risques RGPD\  
+-   Cadrage stratégique projet IA  
+-   Conception System Design Cloud  
+-   Estimation budgétaire & ROI  
+-   Analyse des risques RGPD  
 -   Présentation exécutive  
 
 ------------------------------------------------------------------------
@@ -186,17 +187,17 @@ Objectif : démontrer la viabilité économique et la rentabilité à moyen term
 
 ## 🔮 Améliorations futures
 
--   Recommandation en temps réel\  
--   Personnalisation avancée\  
--   A/B Testing\  
--   Dashboard métier KPI\  
+-   Recommandation en temps réel  
+-   Personnalisation avancée  
+-   A/B Testing  
+-   Dashboard métier KPI  
 -   Détection tendances mode  
 
 ## 📝 TODO
 
--   [ ] Implémenter pipeline MLOps complet\  
--   [ ] Automatiser monitoring dérive modèle\  
--   [ ] Audit RGPD approfondi\  
+-   [ ] Implémenter pipeline MLOps complet  
+-   [ ] Automatiser monitoring dérive modèle  
+-   [ ] Audit RGPD approfondi  
 -   [ ] Optimisation coûts cloud  
 
 ---
