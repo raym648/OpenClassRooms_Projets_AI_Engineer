@@ -1,4 +1,4 @@
-# OpenClassroom - Formation AI Engineer/update_progress.py
+# OpenClassRooms_Projets_AI_Engineer/update_progress.py
 
 import re
 import json
@@ -8,6 +8,7 @@ README_FILE = "README.md"
 PROGRESS_FILE = "progress.json"
 TOTAL_PROJECTS = 15  # nombre total de projets attendus
 
+
 def get_progress_from_readme(readme_file):
     """Compter le nombre de projets terminés [x] dans le README"""
     with open(readme_file, "r", encoding="utf-8") as f:
@@ -16,9 +17,11 @@ def get_progress_from_readme(readme_file):
     completed = len(re.findall(r"- \[x\]", content, re.IGNORECASE))
     return completed
 
+
 def calculate_percentage(completed, total):
     """Calculer le pourcentage d'avancement"""
     return int((completed / total) * 100) if total > 0 else 0
+
 
 def get_color(percentage):
     """Choisir la couleur du badge selon la progression"""
@@ -30,6 +33,7 @@ def get_color(percentage):
         return "green"
     else:
         return "brightgreen"
+
 
 def update_progress_json(completed, total, percentage, color, progress_file):
     """Mettre à jour le fichier progress.json"""
@@ -43,11 +47,12 @@ def update_progress_json(completed, total, percentage, color, progress_file):
     with open(progress_file, "w", encoding="utf-8") as f:
         json.dump(data, f, indent=2, ensure_ascii=False)
 
-    print(f"✅ Progression mise à jour : {completed}/{total} ({percentage}%) → Couleur = {color}")
+    print(f"✅ Progression mise à jour : {completed}/{total} ({percentage}%) → Couleur = {color}")  # noqa: E501
+
 
 if __name__ == "__main__":
     completed = get_progress_from_readme(README_FILE)
     percentage = calculate_percentage(completed, TOTAL_PROJECTS)
     color = get_color(percentage)
 
-    update_progress_json(completed, TOTAL_PROJECTS, percentage, color, PROGRESS_FILE)
+    update_progress_json(completed, TOTAL_PROJECTS, percentage, color, PROGRESS_FILE)  # noqa: E501

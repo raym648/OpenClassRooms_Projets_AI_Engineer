@@ -65,7 +65,7 @@ Checklist des **15 projets** :
 - [x] Projet 6 : **Initiez-vous au MLOps (partie 1/2)**. 
 - [x] Projet 7 : **Concevez et déployez un système RAG**. 
 - [x] Projet 8 : **Confirmez vos compétences en MLOps (Partie 2/2)**. 
-- [ ] Projet 9 : **Réalisez le cadrage d'un projet IA**. 
+- [x] Projet 9 : **Réalisez le cadrage d'un projet IA**. 
 - [ ] Projet 10 : **Labellisez et appliquez des approches semi-supervisées en traitement d'images**.  
 - [ ] Projet 11 : **Entrainez votre agent RL**.  
 - [ ] Projet 12 : **Extrayez des données multimodales de sites web**.  
