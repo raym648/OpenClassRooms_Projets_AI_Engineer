@@ -19,7 +19,7 @@ Le projet s'appuie sur l'écosystème **Microsoft Azure** comme environnement cl
 Une réunion stratégique du COMEX est prévue afin d'obtenir la validation pour le lancement d'un **Proof of Concept (POC) IA**.\
 La mission consiste à produire un cadrage structuré, économiquement dimensionné et conforme aux exigences réglementaires.
 
-![Valeur ajoutée de l'IA pour le projet](docs/Valeur_ajoutée_de_IA_pour_le_projet.png)
+![Valeur ajoutée de l'IA pour le projet](docs/Valeur_ajoutée_de_IA.png)
 
 ------------------------------------------------------------------------
 
@@ -79,7 +79,7 @@ Un diagramme d'architecture pour illustrer :
 5.  Requête base produits\  
 6.  Retour des recommandations vers l'application  
 
-![Architecture Diagram](docs/Système_de_recommandation_de_mode_IA.png)
+![Architecture Diagram](docs/Système_de_recommandation.png)
 
 ------------------------------------------------------------------------
 
