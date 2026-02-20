@@ -155,7 +155,7 @@ Objectif : démontrer la viabilité économique et la rentabilité à moyen term
 
 -   Azure Machine Learning  
 -   Computer Vision  
--   Python\  
+-   Python  
 -   Scikit-Learn / PyTorch  
 
 ## 🔄 MLOps
@@ -205,7 +205,7 @@ Objectif : démontrer la viabilité économique et la rentabilité à moyen term
 **Auteur :** *[Raymond Francius]*   
 **Rôle :** *[Apprenant - Promotion Sept-2025]* — **Engineer AI** — **Openclassrooms**    
 **Date de mise à jour :** *[20-02-2026]*   
-**Client fictif :** Société Financière, nommée "**Prêt à dépenser**"    
+**Client fictif :** "**Fashion-Insta**" entreprise du monde de la mode   
 **Projet :** Projet-9 - Réalisez le cadrage d'un projet IA  
 
 ---
