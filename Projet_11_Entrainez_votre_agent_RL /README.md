@@ -114,9 +114,11 @@ Les compétences développées sont directement applicables à plusieurs domaine
 
 Je fournis un **Notebook Colab** prêt à l’emploi.   
 
-**Ouvrez directement le notebook dans Colab (aucune installation locale nécessaire) :**  
-| ***Notebook01 mission pilotez atterrisseur lunaire eagle-1***  |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/raym648/OpenClassRooms_Projets_AI_Engineer/blob/main/Projet_11_Entrainez_votre_agent_RL/2026-03-18_Notebook01_mission_pilotez_atterrisseur_lunaire_eagle-1.ipynb)|
+**Ouvrez directement le notebook dans Colab (aucune installation locale nécessaire) :** 
 
+
+| ***Notebook01 mission pilotez atterrisseur lunaire eagle-1***  |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/raym648/OpenClassRooms_Projets_AI_Engineer/blob/main/Projet_11_Entrainez_votre_agent_RL/2026-03-18_Notebook01_mission_pilotez_atterrisseur_lunaire_eagle-1.ipynb)|
+|----------------------------------------------------------------|-------------------|
 
 ## 🗺️ 8. Roadmap — Améliorations futures
 
