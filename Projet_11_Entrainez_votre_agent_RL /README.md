@@ -120,10 +120,9 @@ Je fournis un **Notebook Colab** prêt à l’emploi.
 
 ---
 
-### 📊 Exemple de vidéo générée avec l'agent RL
+### 🎬 Démo — LunarLander
 
-| ![](démos/m01_e03_demo_lunarlander_Episode-2_1775551653.mp4) |
-
+👉 [Voir la vidéo](./démos/m01_e03_demo_lunarlander_Episode-2_1775551653.mp4)
 ---
 
 ## 🗺️ 8. Roadmap — Améliorations futures
