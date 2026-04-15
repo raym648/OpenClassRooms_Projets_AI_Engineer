@@ -68,7 +68,7 @@ Checklist des **15 projets** :
 - [x] Projet 9 : **Réalisez le cadrage d'un projet IA**. 
 - [x] Projet 10 : **Labellisez et appliquez des approches semi-supervisées en traitement d'images**.  
 - [x] Projet 11 : **Entrainez votre agent RL**.  
-- [ ] Projet 12 : **Extrayez des données multimodales de sites web**.  
+- [x] Projet 12 : **Extrayez des données multimodales de sites web**.  
 - [ ] Projet 13 : **Mettez en place un Agent IA**.  
 - [ ] Projet 14 : **Finetunez votre propre LLM**.  
 - [ ] Projet 15 : **Réalisez le portfolio d'AI Engineer**.  
