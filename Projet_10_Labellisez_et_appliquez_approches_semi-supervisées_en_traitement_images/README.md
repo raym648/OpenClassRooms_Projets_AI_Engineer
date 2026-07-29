@@ -126,7 +126,7 @@ Je fournis un **Notebook Colab** prêt à l’emploi.
 
 **Ouvrez directement le notebook dans Colab (aucune installation locale nécessaire) :**  
 - ***Notebook01 Analysez images médicales avec méthodes semi-supervisées*** 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/raym648/OpenClassRooms_Projets_AI_Engineer/blob/main/Projet_10_Labellisez_et_appliquez_approches_semi-supervisées_en_traitement_images/2026-02-24_Notebook01_Analysez_images_médicales_avec_méthodes_semi_supervisées.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RemDev-AI/OpenClassRooms_Projets_AI_Engineer/blob/main/Projet_10_Labellisez_et_appliquez_approches_semi-supervisées_en_traitement_images/2026-02-24_Notebook01_Analysez_images_médicales_avec_méthodes_semi_supervisées.ipynb)
 
 ------------------------------------------------------------------------
 

@@ -57,7 +57,7 @@ Ce dépôt est organisé autour du **notebook Google Colab**, correspondant à c
 Je fournis un **Notebook Colab** prêt à l’emploi.  
 
 **Ouvrez directement le notebook dans Colab (aucune installation locale nécessaire) :**  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/raym648/OpenClassRooms_Projets_AI_Engineer/blob/main/Projet_03_Anticipez_les_besoins_en_consommations_de_bâtiments/2025_11_10_Notebook01_2016_Building_Energy_Benchmarking.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RemDev-AI/OpenClassRooms_Projets_AI_Engineer/blob/main/Projet_03_Anticipez_les_besoins_en_consommations_de_bâtiments/2025_11_10_Notebook01_2016_Building_Energy_Benchmarking.ipynb)
 
 ---
 
@@ -125,6 +125,6 @@ Ce projet est distribué sous licence **MIT** – vous êtes libre de le réutil
 
 **✍️ Auteur :** Raymond Francius    
 📚 *Apprenant - Promotion 09-2025 :* **Engineering Intelligence Artificielle (AI)** — **Openclassrooms**     
-🔗 *GitHub :* [https://github.com/raym648/OpenClassRooms_Projets_AI_Engineer](https://github.com/raym648/OpenClassRooms_Projets_AI_Engineer)  
+🔗 *GitHub :* [https://github.com/RemDev-AI/OpenClassRooms_Projets_AI_Engineer](https://github.com/RemDev-AI/OpenClassRooms_Projets_AI_Engineer)  
 
 ---

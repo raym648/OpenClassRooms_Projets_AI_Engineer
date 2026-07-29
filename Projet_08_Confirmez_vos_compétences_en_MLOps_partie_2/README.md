@@ -184,7 +184,7 @@ docker run -p 8000:8000 scoring-api
 
 ### 💻 Dépôt GitHub  
 👉 **Code source complet** :  
-👉 [https://github.com/raym648/pret-a-depenser-scoring-deployment-monitoring](https://github.com/raym648/pret-a-depenser-scoring-deployment-monitoring)
+👉 [https://github.com/RemDev-AI/pret-a-depenser-scoring-deployment-monitoring](https://github.com/RemDev-AI/pret-a-depenser-scoring-deployment-monitoring)
 
 ---
 

@@ -348,7 +348,7 @@ Le projet peut évoluer vers une plateforme IA complète d’apprentissage des �
 
 ## 💻 Dépôt GitHub  
 👉 **Code source complet** :  
-👉 [https://github.com/raym648/POC-Agent-AI-ouvertures-echecs-FFE.git](https://github.com/raym648/POC-Agent-AI-ouvertures-echecs-FFE.git)
+👉 [https://github.com/RemDev-AI/POC-Agent-AI-ouvertures-echecs-FFE.git](https://github.com/RemDev-AI/POC-Agent-AI-ouvertures-echecs-FFE.git)
 
 ---
 

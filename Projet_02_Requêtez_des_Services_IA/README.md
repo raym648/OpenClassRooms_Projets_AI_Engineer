@@ -1,7 +1,7 @@
 # 🎯 Projet 2 — Requêtez des Services IA
 
 [![Python](https://img.shields.io/badge/Python-3.10-blue.svg)](https://www.python.org/) 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/raym648/OpenClassRooms_Projets_AI_Engineer/blob/main/Raymond_Francius_Projet_02_Requêtez_des_Services_IA_17-09-2025/2025_10_03_Notebook_fashion_trend_intelligence_V07.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RemDev-AI/OpenClassRooms_Projets_AI_Engineer/blob/main/Projet_02_Requêtez_des_Services_IA/2025_10_03_Notebook_fashion_trend_intelligence.ipynb)
 [![HuggingFace](https://img.shields.io/badge/🤗-Transformers-yellow.svg)](https://huggingface.co/)  
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
@@ -31,7 +31,7 @@ Ce projet a pour objectif de développer un pipeline complet permettant d’anal
 Je fournis un **Notebook Colab** prêt à l’emploi. Vous pouvez l’ouvrir directement sans installation locale :
 
 **Ouvrez directement le notebook dans Colab (aucune installation locale nécessaire) :**  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/raym648/OpenClassRooms_Projets_AI_Engineer/blob/main/Raymond_Francius_Projet_02_Requêtez_des_Services_IA/2025_10_03_Notebook_fashion_trend_intelligence_V07.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RemDev-AI/OpenClassRooms_Projets_AI_Engineer/blob/main/Projet_02_Requêtez_des_Services_IA/2025_10_03_Notebook_fashion_trend_intelligence.ipynb)
 
 ---
 
@@ -98,6 +98,6 @@ Je vous recommande d’ajouter un **registre d’activité IA** et des procédur
 
 **✍️ Auteur :** Raymond Francius   
 📚 *Apprenant - Promotion 09-2025 :* **Engineering Intelligence Artificielle (AI)** — **Openclassrooms**    
-🔗 *GitHub :* [https://github.com/raym648/OpenClassRooms_Projets_AI_Engineer](https://github.com/raym648/OpenClassRooms_Projets_AI_Engineer)  
+🔗 *GitHub :* [https://github.com/RemDev-AI/OpenClassRooms_Projets_AI_Engineer](https://github.com/RemDev-AI/OpenClassRooms_Projets_AI_Engineer)  
 
 ---
