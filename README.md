@@ -47,7 +47,7 @@ Maîtrise des technologies et langages les plus demandés :
 ## 📊 Suivi de progression
 
 ### 🔵 Badge dynamique
-![Progression](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/raym648/OpenClassRooms_Projets_AI_Engineer/main/progress.json)
+![Progression](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/RemDev-AI/OpenClassRooms_Projets_AI_Engineer/main/progress.json)
 
 👉 Ce badge se met à jour automatiquement dès que `progress.json` est modifié.  
 
@@ -70,11 +70,11 @@ Checklist des **15 projets** :
 - [x] Projet 11 : *Entrainez votre agent RL (Apprentissage par Renforcement)*.  
 - [x] Projet 12 : *Extrayez des données multimodales de sites web*.  
 - [x] Projet 13 : *Mettez en place un Agent IA*.  
-- [ ] Projet 14 : *Finetunez votre propre LLM*.  
+- [x] Projet 14 : *Finetunez votre propre LLM*.  
 - [ ] Projet 15 : *Réalisez le portfolio d'AI Engineer*.  
 
 ---
 
 **✍️ Auteur :** Raymond Francius  
 📚 *Apprenant - Promotion 09-2025 :* **Engineering Intelligence Artificielle (AI)** — **Openclassrooms**    
-🔗 *GitHub :* [https://github.com/raym648/OpenClassRooms_Projets_AI_Engineer](https://github.com/raym648/OpenClassRooms_Projets_AI_Engineer)
+🔗 *GitHub :* [https://github.com/RemDev-AI/OpenClassRooms_Projets_AI_Engineer](https://github.com/RemDev-AI/OpenClassRooms_Projets_AI_Engineer)

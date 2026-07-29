@@ -95,7 +95,7 @@ Le projet est structuré autour des étapes suivantes :
 ## 🌐 Accès au projet
 
 - 📦 **Dépôt GitHub**  
-  👉 [https://github.com/raym648/futurisys-ml-deploy](https://github.com/raym648/futurisys-ml-deploy)
+  👉 [https://github.com/RemDev-AI/futurisys-ml-deploy](https://github.com/RemDev-AI/futurisys-ml-deploy)
 
 
 - 📊 **Dashboard (HF Spaces)**  

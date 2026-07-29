@@ -183,7 +183,7 @@ Je fournis un **Notebook Colab** prêt à l’emploi.
 
 **Ouvrez directement le notebook dans Colab (aucune installation locale nécessaire) :**  
 - ***Notebook 01 — Élaboration du modèle de scoring (Partie 1)*** 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/raym648/OpenClassRooms_Projets_AI_Engineer/blob/main/Projet_06_Initiez_vous_au_MLOps_partie_1/2025-12-30_Notebook01_Élaborez_un_modèle_de_scoring_partie_1.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RemDev-AI/OpenClassRooms_Projets_AI_Engineer/blob/main/Projet_06_Initiez_vous_au_MLOps_partie_1/2025-12-30_Notebook01_Élaborez_un_modèle_de_scoring_partie_1.ipynb)
 
 ---
 

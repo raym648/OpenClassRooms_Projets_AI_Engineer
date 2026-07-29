@@ -135,7 +135,7 @@ Client / Dashboard / Démo live
 
 ### 💻 Dépôt GitHub  
 👉 **Code source complet** :  
-👉 [https://github.com/raym648/puls-events-chatbot-intelligent-rag](https://github.com/raym648/puls-events-chatbot-intelligent-rag)
+👉 [https://github.com/RemDev-AI/puls-events-chatbot-intelligent-rag](https://github.com/RemDev-AI/puls-events-chatbot-intelligent-rag)
 
 ---
 
