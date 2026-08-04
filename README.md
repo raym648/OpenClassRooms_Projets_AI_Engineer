@@ -179,7 +179,8 @@ Une comparaison rapide entre les compétences mises en avant dans ce portfolio e
 
 ## ✍️ Auteur
 
-**Raymond Francius**
-📚 *Apprenant — Promotion 09-2025 :* Engineering Intelligence Artificielle (AI) — OpenClassrooms
-🔗 *Portfolio GitHub :* [https://github.com/RemDev-AI/OpenClassRooms_Projets_AI_Engineer](https://github.com/RemDev-AI/OpenClassRooms_Projets_AI_Engineer)
-🔗 *Projet personnel — Agent de triage médical CHSA :* [https://github.com/RemDev-AI/medical-triage-agent-ai-poc](https://github.com/RemDev-AI/medical-triage-agent-ai-poc)
+**Raymond Francius**  
+📚 *Apprenant — Promotion 09-2025 :* Engineering Intelligence Artificielle (AI) — OpenClassrooms  
+🔗 *Portfolio GitHub :* [https://github.com/RemDev-AI/OpenClassRooms_Projets_AI_Engineer](https://github.com/RemDev-AI/OpenClassRooms_Projets_AI_Engineer)  
+🔗 *Projet personnel — Agent de triage médical CHSA :* [https://github.com/RemDev-AI/medical-triage-agent-ai-poc](https://github.com/RemDev-AI/medical-triage-agent-ai-poc)  
+
